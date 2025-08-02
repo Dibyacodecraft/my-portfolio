@@ -1,0 +1,33 @@
+Project Setup:-
+
+npx create-react-app dibya-portfolio
+cd dibya-portfolio
+npm install react-bits framer-motion three react-three-fiber
+
+
+File Structure:-
+
+src/
+├── components/
+│   ├── ProfileCard.js
+│   ├── ProfileCard.css
+│   ├── Skills.js
+│   ├── Skills.css
+│   ├── Projects.js
+│   ├── Projects.css
+│   ├── Education.js
+│   ├── Education.css
+│   ├── Achievements.js
+│   ├── Achievements.css
+│   ├── Contact.js
+│   ├── Contact.css
+│   ├── BackgroundEffects.js
+│   ├── BackgroundEffects.css
+│   ├── AnimatedButton.js
+│   └── AnimatedButton.css
+├── assets/
+│   └── Dibya_single-removebg-preview.png
+├── App.css
+├── App.js
+├── index.css
+└── index.js
